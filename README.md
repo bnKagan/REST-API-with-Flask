@@ -15,7 +15,7 @@ Bu proje, Flask, Flask-RESTful ve SQLAlchemy kullanılarak geliştirilmiş basit
 ### 1. Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/kullanici/video-api.git
+git clone https://github.com/bnKagan/REST-API-with-Flask.git
 cd video-api
 ```
 
