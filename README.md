@@ -16,7 +16,7 @@ Bu proje, Flask, Flask-RESTful ve SQLAlchemy kullanılarak geliştirilmiş basit
 
 ```bash
 git clone https://github.com/bnKagan/REST-API-with-Flask.git
-cd video-api
+cd REST-API-with-Flask
 ```
 
 ### 2. Sanal Ortam Oluşturun (Opsiyonel ama önerilir)
