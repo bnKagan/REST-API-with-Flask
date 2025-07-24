@@ -1,0 +1,8 @@
+# Environments
+venv
+
+# Local test files
+test.py
+
+# DB
+database.db
